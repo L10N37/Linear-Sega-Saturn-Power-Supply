@@ -69,7 +69,7 @@ Power Supply
 <br>
 
 * The jumper is for users wanting to use the disc drive rather than an ODE. It's a safety guard because you might be using a 12v supply.
-This is not recommended, it generates more heat for the linear regulators to dissapate. The 3.3v reg usually won't even  get luke warm but the 5v regulator
+This is not recommended, it generates more heat for the linear regulators to dissipate. The 3.3v reg usually won't even  get luke warm but the 5v regulator
 will however generate needless heat.  Second to this, the disc drive wants the 9v supply to operate. I wouldn't risk running it at 12v, it probably has it's
 own step down regulator but its run at 9v from factory. The DIODE will drop the 9v input down to about 8.5v to 8.6v. The disc drive circuit is happy with this.
 <br>
