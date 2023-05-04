@@ -10,6 +10,9 @@ A super clean Sega Saturn PSU for VA-SG  / VA-SD mainboards found in rev2 (white
 
 [Components](#Components) <br>
 [Usage](#Usage) <br>
+[Description](#Description) <br>
+[Installs](#Installs) <br>
+[Installs](#Compatibility) <br>
 
 <br>
 <br>
@@ -40,7 +43,7 @@ Mouser P/N 09-48--4059 (or re-use the one off the factory PSU) <br>
 
 Diode * 1
 
-* Diode 1N5822 Schottky 40V 3A DO-27
+* 1N5822 Schottky 40V 3A DO-27
 
 Regulators
 
@@ -75,4 +78,25 @@ own step down regulator but its run at 9v from factory. The DIODE will drop the 
 ## Description
 
 I've sold quite a few pre-modded systems with these, and the supplies on their own. 100% happy customers. I will continue to sell them but decided to open source the project. It's a simple design, it works well, you won't find a cleaner supply. This was tested under the scope. It is quite literally, on average, about 10x cleaner than the switching supplies out there. I added the CD drive track/ jumper before uploading the design as I've had to instruct a few people on how to run a bodge wire. The saturn documents out there won't tell you that you need that line, but it definitely operates the disc drive on these particular revisions of board.
-      
+
+## Installs
+
+![alt text](/images/1.jpg) <br>
+With original fenrir ODE (Before the 20/21pin became a single board) <br>
+<br>
+<br>
+
+![alt text](/images/2.jpg) <br>
+With original fenrir ODE (Before the 20/21pin became a single board) <br>
+<br>
+<br>
+
+![alt text](/images/3.jpg) <br>
+Custom fully recapped saturn with clear shell,  FRAM and MODE ODE, utilising the external 5v pads on the PSU to power the MODE<br>
+<br>
+<br>
+
+## Compatiblity
+
+![alt text](/images/compatible.png)
+
