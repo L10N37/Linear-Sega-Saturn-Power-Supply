@@ -12,7 +12,7 @@ A super clean Sega Saturn PSU for VA-SG  / VA-SD mainboards found in rev2 (white
 [Usage](#Usage) <br>
 [Description](#Description) <br>
 [Installs](#Installs) <br>
-[Installs](#Compatibility) <br>
+[Compatibility](#Compatibility) <br>
 
 <br>
 <br>
