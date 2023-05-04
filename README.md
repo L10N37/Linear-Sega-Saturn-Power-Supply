@@ -96,7 +96,7 @@ Custom fully recapped saturn with clear shell,  FRAM and MODE ODE, utilising the
 <br>
 <br>
 
-## Compatiblity
+## Compatibility
 
 ![alt text](/images/compatible.png)
 
