@@ -65,7 +65,7 @@ Power Supply
 ## Usage
 <br>
 
-* This is a replica of the factory PSU in regards to the PCB shape. It will fit like a factory supply and the heatsink clears the stop shell.<br>
+* This is a replica of the factory PSU in regards to the PCB shape. It will fit like a factory supply and the heatsink clears the top shell.<br>
 <br>
 
 * The jumper is for users wanting to use the disc drive rather than an ODE. It's a safety guard because you might be using a 12v supply.
