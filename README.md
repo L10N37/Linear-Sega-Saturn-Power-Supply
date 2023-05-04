@@ -50,7 +50,7 @@ Regulators
 * Texas Instruments LM1084IT-5.0
 * Microchip MIC2940A-3.3WU LDOI 3.3v / 3-Pin, D2PAK (TO-263)
 
-Capacitors (Go high quality! Wurth, kemet etc. )
+Capacitors (Go high quality! Wurth, kemet etc.)
 
 * Input (shared): 100uf 35v
 * Smoothing: 220uf 25v * 2
